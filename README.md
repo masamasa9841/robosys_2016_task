@@ -1,5 +1,7 @@
 # robosys_2016_task
-driver to talk  
+
+### About
+This driver to talk 
 [![](http://img.youtube.com/vi/0EjzGRgsp0E/0.jpg)](https://www.youtube.com/watch?v=0EjzGRgsp0E)  
 
 ### Requirements
@@ -28,3 +30,7 @@ make && make install
 ### License
 
 This repository is licensed under the GPLv3 license, see [LICENSE](./LICENSE).
+
+### Reference
+
+[ニコニコ大百科](http://dic.nicovideo.jp/a/%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E6%96%8E%E8%97%A4%E5%B7%A5)
